@@ -8,3 +8,4 @@
 
 'tkinter' สำหรับการสร้างอินเตอร์เฟซผู้ใช้งานที่เป็นมิตรและง่ายต่อการใช้งาน
 ![image](https://github.com/RiZuRuZ/GUI_SKT/assets/124576764/f3f1c3d7-fb0b-4c41-a4dd-299375d30bbe)
+## Code In Brance
